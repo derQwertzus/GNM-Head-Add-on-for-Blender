@@ -1,0 +1,14 @@
+schema_version = "2.4.0"
+
+id = "gnm_head"
+version = "2.4.0"
+name = "GNM Head"
+tagline = "Generate and sculpt GNM parametric heads via the local GNM server"
+maintainer = "Alex"
+type = "add-on"
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
+
+tags = ["Mesh", "Object"]
